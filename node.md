@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-11-24 04:42:49
+ * @LastEditTime: 2020-11-28 23:59:38
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \node_project\newNodeAndKoa\node.md
+-->
 # 模块化
 
 ## 前端实现模块化：AMD sea.js   CMD require.js
@@ -29,3 +37,4 @@
 
 + npm常用指令
 
+npm i
