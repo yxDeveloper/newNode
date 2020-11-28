@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-11-24 04:42:49
- * @LastEditTime: 2020-11-29 00:00:06
+ * @LastEditTime: 2020-11-29 00:00:20
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \node_project\newNodeAndKoa\node.md
@@ -39,3 +39,4 @@
 
 npm i
 npm i {} -S
+npm i {} -D
