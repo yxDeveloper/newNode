@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-11-24 04:42:49
- * @LastEditTime: 2020-11-30 10:09:21
+ * @LastEditTime: 2020-11-30 21:51:49
  * @LastEditors: Please set LastEditors
  * @Description: node笔记
  * @FilePath: \node_project\newNodeAndKoa\node.md
@@ -39,4 +39,5 @@
 
 npm i
 npm i {} -S
+上线
 npm i {} -D
